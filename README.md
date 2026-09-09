@@ -7,10 +7,8 @@
 <img width="1600" height="1680" alt="Untitled88_20260908084031" src="https://github.com/user-attachments/assets/792ef001-dd07-48fc-b545-0a765c382948" />
 
 
-<div align="center"><img width="140" height="70" alt="Untitled94_20260909101235" src="https://github.com/user-attachments/assets/8dffbe1c-3a5c-416d-bebe-83c5cfe56e18" /><img src="(https://guns.lol/drunkongraysons)
-
-
-<div align="center">[strawpage](https://graysonoholic.straw.page) 
- <div align="center">[prns](https://en.pronouns.page/@graysonoholic) 
- <div align="center">[guns]
- <div align="center">[ata](https://graysonoholic.atabook.org)
+<div align="center">
+  <a href="https://guns.lol/drunkongraysons">
+    <img width="140" height="70" alt="Untitled94_20260909101235" src="https://github.com/user-attachments/assets/8dffbe1c-3a5c-416d-bebe-83c5cfe56e18">
+  </a>
+</div>
