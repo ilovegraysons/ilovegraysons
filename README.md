@@ -21,14 +21,19 @@
 <table>
   <tr>
     <td align="center" valign="middle">
+<div align="center">
+<span style="color:#F7F3C2FF">look at my sites to know more abt me<br><br>
 
-      look at my sites to know more abt me
-      I have every mark grayson 
-      design / variant as a skin
-      I have every richard grayson 
-      design as a skin
-      don’t copy my pony designs!!
-      seriously!!! thanks!!!
-      
+I have every mark grayson design + all variants as a skin<br><br>
+
+I have every richard grayson design as a skin<br><br>
+
+don’t copy my pony designs!! seriously!!! thanks!!
+</span>
+
+</div>
+  </tr>
+</table>
+</div>
   </tr>
 </table>
