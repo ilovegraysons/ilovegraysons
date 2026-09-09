@@ -7,8 +7,15 @@
 <img width="1600" height="1680" alt="Untitled88_20260908084031" src="https://github.com/user-attachments/assets/792ef001-dd07-48fc-b545-0a765c382948" />
 
 
-<div align="center">
+  <div align="center">
   <a href="https://guns.lol/drunkongraysons">
-    <img width="140" height="70" alt="Untitled94_20260909101235" src="https://github.com/user-attachments/assets/8dffbe1c-3a5c-416d-bebe-83c5cfe56e18">
+    <img width="140" height="70" alt="GUNS.LOL" src="https://github.com/user-attachments/assets/8dffbe1c-3a5c-416d-bebe-83c5cfe56e18">
   </a>
-</div>
+  <a href="https://graysonoholic.straw.page">
+    <img width="140" height="70" alt="Straw Page" src="https://github.com/user-attachments/assets/978dccfe-2e70-422b-a156-f895bfd814a0">
+  </a>
+  <a href="https://en.pronouns.page/@graysonoholic">
+    <img width="140" height="70" alt="Straw Page" src="https://github.com/user-attachments/assets/ce004177-29da-41da-8dd2-073bccd547a7" />
+<div align="center">
+  <a href="https://graysonoholic.atabook.org">
+    <img width="140" height="70" alt="GUNS.LOL" src="https://github.com/user-attachments/assets/e5f1b340-ff67-4311-85bc-954455b47f6c" />
