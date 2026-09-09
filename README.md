@@ -20,23 +20,15 @@
   </a>
 <table>
   <tr>
-    <td align="left" valign="middle">
-      <img width="150" height="210" alt="IMG_7097" src="https://github.com/user-attachments/assets/a039dbac-3dfc-4f35-911d-feb8b4b32920">
-    </td>
     <td align="center" valign="middle">
 
-      my main ponies  (⁎ᴗ͈ ⩊ ᴗ͈⁎)
+      look at my sites to know more abt me
       I have every mark grayson 
       design / variant as a skin
       I have every richard grayson 
       design as a skin
       don’t copy my pony designs!!
       seriously!!! thanks!!!
-      friends can ask for inspo
-  </tr>
-</table>
-  <td align="right" valign="right">
-      <img width="150" height="210" alt="IMG_7098" src="https://github.com/user-attachments/assets/433d106c-e2e7-4467-a3e5-c3dc56908aa2">
-    </td>
+      
   </tr>
 </table>
