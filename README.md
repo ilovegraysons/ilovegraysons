@@ -6,13 +6,11 @@
 
 <img width="1600" height="1680" alt="Untitled88_20260908084031" src="https://github.com/user-attachments/assets/792ef001-dd07-48fc-b545-0a765c382948" />
 
- [strawpage](https://graysonoholic.straw.page) 
- [prns](https://en.pronouns.page/@graysonoholic) 
- [guns](https://guns.lol/drunkongraysons)
- [ata](https://graysonoholic.atabook.org)
+
+<div align="center"><img width="140" height="70" alt="Untitled94_20260909101235" src="https://github.com/user-attachments/assets/8dffbe1c-3a5c-416d-bebe-83c5cfe56e18" /><img src="(https://guns.lol/drunkongraysons)
 
 
-
- <img width="1600" height="1680" alt="Untitled88_20260908084434" src="https://github.com/user-attachments/assets/3fe9a883-d4e3-4803-aeb2-aa212113c204" />
- 
-<img width="2048" height="711" alt="Untitled89_20260908084502" src="https://github.com/user-attachments/assets/d64fedb7-248b-48b6-ad72-3131cba6120a" />
+<div align="center">[strawpage](https://graysonoholic.straw.page) 
+ <div align="center">[prns](https://en.pronouns.page/@graysonoholic) 
+ <div align="center">[guns]
+ <div align="center">[ata](https://graysonoholic.atabook.org)
