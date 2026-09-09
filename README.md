@@ -1,5 +1,3 @@
-<img width="680" height="4" alt="Untitled90_20260909080636" src="https://github.com/user-attachments/assets/c359d385-6be7-4688-8db3-2b7ce591c4ae" />
-
 <img width="2048" height="711" alt="Untitled89_20260908084456" src="https://github.com/user-attachments/assets/5b6e935a-13d8-4456-926c-f25b129f1d07" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=11&pause=1000&color=F7F3C2&center=true&multiline=true&width=435&lines=You're+fighting+for+nothing.+I'm+fighting+for+my+family%2C+;people...+our+people%2C+your+people--hell%2C+;even+your+army+that's+fighting+against+me.)](https://git.io/typing-svg)
@@ -20,7 +18,25 @@
   <a href="https://graysonoholic.atabook.org">
     <img width="140" height="70" alt="GUNS.LOL" src="https://github.com/user-attachments/assets/e5f1b340-ff67-4311-85bc-954455b47f6c" />
   </a>
-<br><br>
- <div align="left">
-  <img width="150" height="210" alt="IMG_7097" src="https://github.com/user-attachments/assets/a039dbac-3dfc-4f35-911d-feb8b4b32920">
-</div>
+<table>
+  <tr>
+    <td align="left" valign="middle">
+      <img width="150" height="210" alt="IMG_7097" src="https://github.com/user-attachments/assets/a039dbac-3dfc-4f35-911d-feb8b4b32920">
+    </td>
+    <td align="center" valign="middle">
+
+      my main ponies  (⁎ᴗ͈ ⩊ ᴗ͈⁎)
+      I have every mark grayson 
+      design / variant as a skin
+      I have every richard grayson 
+      design as a skin
+      don’t copy my pony designs!!
+      seriously!!! thanks!!!
+      friends can ask for inspo
+  </tr>
+</table>
+  <td align="right" valign="right">
+      <img width="150" height="210" alt="IMG_7098" src="https://github.com/user-attachments/assets/433d106c-e2e7-4467-a3e5-c3dc56908aa2">
+    </td>
+  </tr>
+</table>
