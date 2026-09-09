@@ -31,7 +31,7 @@
     <td align="center" valign="middle">
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=12&duration=1&pause=1&color=FFF1C6&center=true&multiline=true&width=435&lines=look+at+my+sites+to+know+more+abt+me;I+have+every+mark+grayson+design+%2B+all+variants+as+a+skin)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=12&duration=1&pause=1&color=78B2D3&center=true&multiline=true&width=435&lines=I+have+every+richard+grayson+design+as+a+skin;don%E2%80%99t+copy+my+pony+designs!!+seriously!!!+thanks!!!)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1&pause=1&color=FFF2C2&center=true&multiline=true&repeat=false&width=435&lines=click+on+the+sites+to+know+more+abt+me;I+have+every+mark+grayson+design+%2B+all+variants+as+a+skin)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1&pause=1&color=A9DCEE&center=true&multiline=true&repeat=false&width=435&lines=I+have+every+richard+grayson+design+as+a+skin;don%E2%80%99t+copy+my+pony+designs!!+seriously!!!+thanks!!!)](https://git.io/typing-svg)</div>
   </tr>
 </table>
 <img width="1600" height="1680" alt="Untitled88_20260908084434" src="https://github.com/user-attachments/assets/2df49168-524a-440c-9e41-9d70c3c0a3c2" />
