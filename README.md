@@ -3,9 +3,9 @@
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=YOUR_USERNAME&repo=YOUR_REPOSITORY&label=graysons&labelColor=%23F7F3C2&countColor=%236DABCE">
 
 </div>
+<img width="1600" height="800" alt="Untitled99_20260910145743" src="https://github.com/user-attachments/assets/237ae7d8-6df6-4d4f-85be-bfbc179d6019" />
 
-<img width="680" height="4" alt="Untitled90_20260909113553" src="https://github.com/user-attachments/assets/a7c29fae-e016-42d8-a7c6-56e19cd31fc9" />
-
+<img width="680" height="4" alt="Untitled90_20260910150108" src="https://github.com/user-attachments/assets/e9b87f91-6446-4119-9e58-76e39d7447f3" />
 <img width="2048" height="711" alt="Untitled89_20260908084456" src="https://github.com/user-attachments/assets/5b6e935a-13d8-4456-926c-f25b129f1d07" />
 
   <div align="center">
@@ -55,14 +55,14 @@
 
 </details>
 
-<img width="680" height="4" alt="Untitled90_20260909113553" src="https://github.com/user-attachments/assets/6d9a29f9-8346-4c46-b54f-b9a3ed32c05b" />
+<img width="680" height="4" alt="Untitled90_20260910150108" src="https://github.com/user-attachments/assets/e9b87f91-6446-4119-9e58-76e39d7447f3" />
 <br><br>
 <img width="1600" height="1680" alt="Untitled88_20260908084434" src="https://github.com/user-attachments/assets/2df49168-524a-440c-9e41-9d70c3c0a3c2" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=94C3E2&center=true&multiline=true&width=435&lines=I've+been+so+many+things%2C+Bruce.+;Flying+Grayson.+Robin.+Nightwing.+Batman.+Agent+37.;All+of+them+had+one+thing+in+common.)](https://git.io/typing-svg)
 
 <img width="2048" height="711" alt="Untitled89_20260908084502" src="https://github.com/user-attachments/assets/ea813652-88dd-42a1-aa1d-9c790e726123" />
-<img width="2048" height="327" alt="IMG_7121" src="https://github.com/user-attachments/assets/a48242a9-425e-4d94-84c2-7495c646cf42" />
-<img width="680" height="4" alt="Untitled90_20260909113553" src="https://github.com/user-at<img width="736" height="556" alt="Untitled95_20260909115203" src="https://github.com/user-attachments/assets/e10d14b5-50d5-49cc-b205-2eb6a4f7269b"
+<img width="680" height="4" alt="Untitled90_20260910150108" src="https://github.com/user-attachments/assets/946e0c48-8562-4ba4-a95d-8495d7d4d745" />
 
-                                                            
+<img width="1600" height="800" alt="Untitled101_20260910145128" src="https://github.com/user-attachments/assets/042588f6-dc68-41bb-b0ab-459217e62c38" />
+   
