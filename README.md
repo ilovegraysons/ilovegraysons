@@ -39,7 +39,7 @@
 <div align="center">
 
 <details>
-<summary>check out my 8+ mark variant themed repos ♡</summary>
+<summary>check out my mark variant themed repos ♡</summary>
 
 - [movincihawk, mohawk mark](https://github.com/movincihawks/movincihawks)
 - [capevincible, sinister mark](https://github.com/capevincibles/capevincibles)
