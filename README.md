@@ -55,6 +55,17 @@
 
 </details>
 
+<details>
+<summary> more of my mark themed repos ♡</summary>
+
+- [emperor mark](https://github.com/marksbiggestfan/marksbiggestfan)
+- HEAVY BLOOD WARNING ON THESE NEXT 3 REPOS!!
+- [s1 ep8 ‘ you dad, I still have you](https://github.com/marksbiggestfan/s1ep8)
+- [s2, ep8 ‘ I thought you were stronger](https://github.com/marksbiggestfan/s2ep8)
+- [s3, ep8 ‘ you don’t live to see tomorrow](https://github.com/marksbiggestfan/s3ep8)
+
+</details>
+
 <img width="680" height="4" alt="Untitled90_20260910150108" src="https://github.com/user-attachments/assets/e9b87f91-6446-4119-9e58-76e39d7447f3" />
 <br><br>
 <img width="1600" height="1680" alt="Untitled88_20260908084434" src="https://github.com/user-attachments/assets/2df49168-524a-440c-9e41-9d70c3c0a3c2" />
