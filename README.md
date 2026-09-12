@@ -63,6 +63,7 @@
 - [s1 ep8 ‘ you dad, I still have you](https://github.com/marksbiggestfan/s1ep8)
 - [s2, ep8 ‘ I thought you were stronger](https://github.com/marksbiggestfan/s2ep8)
 - [s3, ep8 ‘ you don’t live to see tomorrow](https://github.com/marksbiggestfan/s3ep8)
+- [s4, ep8 ‘ my answer is yes](https://github.com/marksbiggestfan/s4ep8)
 
 </details>
 
