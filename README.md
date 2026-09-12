@@ -20,16 +20,17 @@
 
   <div align="center">
   <a href="https://guns.lol/drunkongraysons">
-    <img width="140" height="70" alt="GUNS.LOL" src="https://github.com/user-attachments/assets/8dffbe1c-3a5c-416d-bebe-83c5cfe56e18">
+    <img width="140" height="70" alt="Untitled94_20260911213744" src="https://github.com/user-attachments/assets/c0460202-2fb5-4056-8c7e-6deb3015a762" />
   </a>
   <a href="https://graysonoholic.straw.page">
-    <img width="140" height="70" alt="Straw Page" src="https://github.com/user-attachments/assets/978dccfe-2e70-422b-a156-f895bfd814a0">
+    <img width="140" height="70" alt="Untitled94_20260911213859" src="https://github.com/user-attachments/assets/4ca43379-c934-42dd-8796-81067d281021" />
   </a>
   <a href="https://en.pronouns.page/@graysonoholic">
-    <img width="140" height="70" alt="Straw Page" src="https://github.com/user-attachments/assets/ce004177-29da-41da-8dd2-073bccd547a7" />
+    <img width="140" height="70" alt="Untitled94_20260911213905" src="https://github.com/user-attachments/assets/3e2ea201-ea3a-4d17-8df5-8c47db403f6c" />
 <div align="center">
   <a href="https://graysonoholic.atabook.org">
-    <img width="140" height="70" alt="GUNS.LOL" src="https://github.com/user-attachments/assets/e5f1b340-ff67-4311-85bc-954455b47f6c" />
+    <img width="140" height="70" alt="Untitled94_20260911213910" src="https://github.com/user-attachments/assets/7ea2825e-62e9-49ec-8822-5bfb57c8f7f3" />
+
   </a>
 <table>
   <tr>
