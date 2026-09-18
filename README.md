@@ -34,10 +34,10 @@
   </a>
 <table>
   <tr>
-    <td align="center" valign="middle">
+  <td align="center" valign="middle">
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1&pause=1&color=FFF2C2&center=true&multiline=true&repeat=false&width=435&lines=click+on+the+sites+to+know+more+abt+me;I+have+every+mark+grayson+design+%2B+all+variants+as+a+skin)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=1&color=95C8F1&center=true&multiline=true&repeat=false&width=500&height=95&lines=DO+NOT+COPY%2FTAKE+INSPIRATION+OF+MY+PONY+DESIGNS!!;I+WILL+BLOCK+IF+I+SEE+A+PONY+SIMILAR+TO+ANY+DESIGNS+OF+MINE;PLS+just+be+original+with+ur+own+ponies..+THANK+U+%3C%2F3;I%E2%80%99m+THE+spidervincible%2C+oh+me%3F+pure+aura.+%28%E2%80%A2%E1%B4%97%3C%CB%B6%29%E2%9C%A7)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1&pause=1&color=FFF2C2&center=true&multiline=true&repeat=false&width=435&lines=click+on+the+sites+to+know+more+abt+me;I+have+every+mark+grayson+design+%2B+all+variants+as+a+skin)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=1&color=95C8F1&center=true&multiline=true&repeat=false&width=500&height=95&lines=DO+NOT+COPY%2FTAKE+INSPIRATION+OF+MY+PONY+DESIGNS!!;I+WILL+BLOCK+IF+I+SEE+A+PONY+SIMILAR+TO+ANY+DESIGNS+OF+MINE;PLS+just+be+original+with+ur+own+ponies..+THANK+U+%3C%2F3;oh+me%3F+pure+aura.+%28%E2%80%A2%E1%B4%97%3C%CB%B6%29%E2%9C%A7)](https://git.io/typing-svg)</div>
   </tr>
 </table>
 <div align="center">
@@ -45,7 +45,6 @@
 <table>
 <tr>
 <td align="center" valign="middle">
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1&color=E2D69F&center=true&multiline=true&repeat=false&width=500&height=25&lines=THE+mark+grayson+%2F+invincible+of+ponytown)](https://git.io/typing-svg)
