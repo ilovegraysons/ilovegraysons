@@ -25,7 +25,7 @@
   <a href="https://graysonoholic.straw.page">
     <img width="140" alt="Untitled94_20260911213859" src="https://github.com/user-attachments/assets/4ca43379-c934-42dd-8796-81067d281021" />
   </a>
-  <a href="https://en.pronouns.page/@graysonoholic">
+  <a href="https://pronouns.cc/@graysonoholic)">
     <img width="140" alt="Untitled94_20260911213905" src="https://github.com/user-attachments/assets/3e2ea201-ea3a-4d17-8df5-8c47db403f6c" />
 <div align="center">
   <a href="https://graysonoholic.atabook.org">
