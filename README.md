@@ -88,15 +88,6 @@
 
 </details>
 
-<img width="680" alt="Untitled90_20260910150108" src="https://github.com/user-attachments/assets/e9b87f91-6446-4119-9e58-76e39d7447f3" />
-<br><br>
-<img width="1600" alt="Untitled88_20260911213143" src="https://github.com/user-attachments/assets/06eefa17-6a7d-4bd4-9fcd-f3863c5ede53" />
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=94C3E2&center=true&multiline=true&width=435&lines=I've+been+so+many+things%2C+Bruce.+;Flying+Grayson.+Robin.+Nightwing.+Batman.+Agent+37.;All+of+them+had+one+thing+in+common.)](https://git.io/typing-svg)
-
-<img width="2048" alt="Untitled89_20260911213125" src="https://github.com/user-attachments/assets/21ee2e85-d462-4cb1-b638-3d5f6fc2e0b1" />
-
 <img width="680" alt="Untitled90_20260910150108" src="https://github.com/user-attachments/assets/946e0c48-8562-4ba4-a95d-8495d7d4d745" />
 
 <img width="1600" alt="Untitled101_20260910145128" src="https://github.com/user-attachments/assets/042588f6-dc68-41bb-b0ab-459217e62c38" />
